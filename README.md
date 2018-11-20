@@ -1,7 +1,7 @@
 # Deta_Medcine
 
 下载地址:
-https://pan.baidu.com/s/1v8hVgo-TA4z7U3zorltYGg
+https://pan.baidu.com/s/1_rxq4lr9r9ixYMmD2Zwz_w
 
 1.浏阳德塔软件开发公司医疗大数据终端学习软件免费裁减版本.
 
