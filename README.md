@@ -2,7 +2,7 @@
 
 
 下载地址:
-https://pan.baidu.com/s/1Fmai-UcaeTSN3KHyhtt01w
+https://pan.baidu.com/s/1Qo7LkO0JxSYdk4PGy4SMSg
 
 1.浏阳德塔软件开发公司医疗大数据终端学习软件免费裁减版本.
 
