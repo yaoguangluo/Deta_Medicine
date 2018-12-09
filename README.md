@@ -2,7 +2,7 @@
 
 
 下载地址:
-https://pan.baidu.com/s/1Qo7LkO0JxSYdk4PGy4SMSg
+第三版本功效禁忌修正中，稍后更新。~~
 
 1.浏阳德塔软件开发公司医疗大数据终端学习软件免费裁减版本.
 
