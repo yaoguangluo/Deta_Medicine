@@ -18,7 +18,8 @@ https://pan.baidu.com/s/1Qe4tTwA2VbQC5-Tyo_Wb-g
 6.免费的老版本出现录入错误，请及时通知作者进行修正，谢谢。
 
 谢谢.
-
+![实例](https://github.com/yaoguangluo/Deta_Medcine/blob/master/1.png)
+![实例](https://github.com/yaoguangluo/Deta_Medcine/blob/master/2.png)
 # 联系电话: 15116110525
 # QQ: 313699483
 # 邮箱：313699483@qq.com
