@@ -18,11 +18,11 @@ https://pan.baidu.com/s/1Qe4tTwA2VbQC5-Tyo_Wb-g
 6.免费的老版本出现录入错误，请及时通知作者进行修正，谢谢。
 
 该项目正在使用的开源项目如下：
-https://github.com/yaoguangluo/ETL_Unicorn
-https://github.com/yaoguangluo/NeroParser
-https://github.com/yaoguangluo/DETA_DataBase
-https://github.com/yaoguangluo/Data_Processor
-https://github.com/yaoguangluo/VPCS_Theroy
+## https://github.com/yaoguangluo/ETL_Unicorn
+## https://github.com/yaoguangluo/NeroParser
+## https://github.com/yaoguangluo/DETA_DataBase
+## https://github.com/yaoguangluo/Data_Processor
+## https://github.com/yaoguangluo/VPCS_Theroy
 
 谢谢.
 ![实例](https://github.com/yaoguangluo/Deta_Medcine/blob/master/1.png)
