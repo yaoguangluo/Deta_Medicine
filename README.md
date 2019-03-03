@@ -19,10 +19,10 @@ https://pan.baidu.com/s/1Qe4tTwA2VbQC5-Tyo_Wb-g
 
 该项目正在使用的开源项目如下：
 ## https://github.com/yaoguangluo/ETL_Unicorn
-## https://github.com/yaoguangluo/NeroParser
+## https://github.com/yaoguangluo/Nero_Parser
 ## https://github.com/yaoguangluo/DETA_DataBase
 ## https://github.com/yaoguangluo/Data_Processor
-## https://github.com/yaoguangluo/AOPM-VPCS_Theroy
+## https://github.com/yaoguangluo/AOPM_VPCS_Theroy
 
 谢谢.
 ![实例](https://github.com/yaoguangluo/Deta_Medcine/blob/master/1.png)
