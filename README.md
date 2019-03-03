@@ -22,7 +22,7 @@ https://pan.baidu.com/s/1Qe4tTwA2VbQC5-Tyo_Wb-g
 ## https://github.com/yaoguangluo/NeroParser
 ## https://github.com/yaoguangluo/DETA_DataBase
 ## https://github.com/yaoguangluo/Data_Processor
-## https://github.com/yaoguangluo/VPCS_Theroy
+## https://github.com/yaoguangluo/AOPM-VPCS_Theroy
 
 谢谢.
 ![实例](https://github.com/yaoguangluo/Deta_Medcine/blob/master/1.png)
@@ -30,4 +30,4 @@ https://pan.baidu.com/s/1Qe4tTwA2VbQC5-Tyo_Wb-g
 # 联系电话: 15116110525
 # QQ: 313699483
 # 邮箱：313699483@qq.com
-# 罗瑶光2019年1月18日0:31
+# 罗瑶光2019年3月4日0:31
