@@ -28,10 +28,26 @@ https://pan.baidu.com/s/1Qe4tTwA2VbQC5-Tyo_Wb-g
 ## https://github.com/yaoguangluo/AOPM_VPCS_Theroy
 
 谢谢.
-
+完整版本展示:
 ![实例](https://github.com/yaoguangluo/Deta_Medicine/blob/master/DETA%20medcine%2020190411.jpg)
 ![实例](https://github.com/yaoguangluo/Deta_Medicine/blob/master/DETA%2020190404-ws%20medcine.jpg)
 ![实例](https://github.com/yaoguangluo/Deta_Medicine/blob/master/DETA%20medcine%2020190411-unicorn.jpg)
+
+免费版本对比完整版本
+                 免费裁减版          完整版
+版权书籍            0本              170本
+无版权书籍          400本            980本
+经文字数            2200万字         1.6亿字
+休正方式            格式化            一直在循环测试维护
+大类                9                16
+药物数             中1140+西200      中1145+西1140   
+开源插件           老版本             最新版本
+分词速度            1100万/秒        1770万/秒
+教材                无               人卫7(12本),8(3本),9(5本)
+古名著              16本             16本     
+国外经典             0本              2本 包括 哈里森大医典 
+
+
 # 联系电话: 15116110525
 # QQ: 313699483
 # 邮箱：313699483@qq.com
