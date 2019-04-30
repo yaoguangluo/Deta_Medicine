@@ -26,6 +26,7 @@ https://pan.baidu.com/s/1Qe4tTwA2VbQC5-Tyo_Wb-g
 ## https://github.com/yaoguangluo/DETA_DataBase
 ## https://github.com/yaoguangluo/Data_Processor
 ## https://github.com/yaoguangluo/AOPM_VPCS_Theroy
+## https://github.com/yaoguangluo/Deta_Catalytic_DNA
 
 谢谢.
 完整版本展示:
@@ -52,7 +53,7 @@ https://pan.baidu.com/s/1Qe4tTwA2VbQC5-Tyo_Wb-g
 ###### 无版权书籍        980本
 ###### 经文字数         1.6亿字
 ###### 修正方式         一直在循环测试维护
-###### 大类             16
+###### 大类             55
 ###### 药物数           中1145+西1140   
 ###### 开源插件         最新版本
 ###### 分词速度         2300万混分/秒
