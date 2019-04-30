@@ -1,9 +1,9 @@
-# 🔥 浏阳德塔软件开发公司医疗大数据终端学习软件免费裁减版本 https://pan.baidu.com/s/1Qe4tTwA2VbQC5-Tyo_Wb-g
+# 🔥 浏阳德塔软件开发公司医疗大数据终端学习软件免费裁减版本 https://pan.baidu.com/s/1r85OmEHri-8a5Ne0_dH_zg
 
 
 下载地址:
 
-https://pan.baidu.com/s/1Qe4tTwA2VbQC5-Tyo_Wb-g
+https://pan.baidu.com/s/1r85OmEHri-8a5Ne0_dH_zg 提取码:3nao
 
 1.浏阳德塔软件开发公司医疗大数据终端学习软件免费裁减版本.
 
@@ -43,7 +43,7 @@ https://pan.baidu.com/s/1Qe4tTwA2VbQC5-Tyo_Wb-g
 ###### 大类                9                
 ###### 药物数             中1140+西200        
 ###### 开源插件           老版本            
-###### 分词速度            1100万/秒       
+###### 分词速度            2300万混分/秒    
 ###### 教材                无               
 ###### 古名著              16本                  
 ###### 国外经典             0本             
