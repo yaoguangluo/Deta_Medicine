@@ -4,8 +4,8 @@
 ##  50字搜索平均用时控制在0.01秒内,内存在1.6GB,闭源版准备再增加1亿字英文最新医典.预计 在平均响应0.03秒内,内存占用2.5gb(以后扩充到100亿字,就采用 索引算法(算法部份 Deta会永久开源)) 2019-05-15
 
 下载地址:
-http://tinos.qicp.vip/download/HuaRuiJiTm1.0.3.zip
-https://pan.baidu.com/s/1r85OmEHri-8a5Ne0_dH_zg 提取码:3nao
+######  http://tinos.qicp.vip/download/HuaRuiJiTm1.0.3.zip
+###### https://pan.baidu.com/s/1r85OmEHri-8a5Ne0_dH_zg 提取码:3nao
 
 1.浏阳德塔软件开发公司医疗大数据终端学习软件免费裁减版本.
 
