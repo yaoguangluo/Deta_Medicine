@@ -37,6 +37,8 @@
 ## https://github.com/yaoguangluo/AOPM_VPCS_Theroy
 ## https://github.com/yaoguangluo/Deta_Catalytic_DNA
 ## https://github.com/yaoguangluo/DataSwap
+## https://github.com/yaoguangluo/Data_Prediction
+## https://github.com/yaoguangluo/DETA_BackEnd
 
 谢谢.
 完整版本展示:
@@ -65,7 +67,7 @@
 ###### 引无版权书籍        1025本
 ###### 经文字数            1.62亿字
 ###### 修正方式            一直在循环测试维护
-###### 大类                55(另外包括 心,肝,胆,脾,肺,胃,肾,男,女,幼,眼,舌,鼻,耳,皮,口,内,外,骨,血,伤,微生物 等72个小专科)
+###### 大类                55(另外包括 心,肝,胆,脾,肺,胃,肾,男,女,幼,眼,舌,鼻,耳,皮,口,内,外,骨,血,伤,微生物,感染,不孕 等72个小专科)
 ###### 药物数              中1380+西1201 带药理  
 ###### 开源插件            最新版本
 ###### 分词速度            1600万+/秒,带病句 无标点 歧义 绕口令 70国语言象契混分 12国语料库65000 中文词汇 36万闭源词库.
