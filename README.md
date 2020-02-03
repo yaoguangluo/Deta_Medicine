@@ -5,8 +5,8 @@
 
 下载地址:
 高速下载QQ群号: 167461951，679534743， 528417961
-######  https://ip21761404.imwork.net/download/HuaRuiJi_TM_1_2_0.rar
-######  http://tinos.qicp.vip/download/HuaRuiJi_TM_1_2_0.rar
+######  https://ip21761404.imwork.net/download/HuaRuiJi_TM_1_2_2.rar
+######  http://tinos.qicp.vip/download/HuaRuiJi_TM_1_2_2.rar
 
 ###### 华瑞集,养疗经 大数据软件 销售联系电话: 15116110525 
 ###### 华瑞集,养疗经 大数据软件 销售联系微信1: 15116110525 
