@@ -39,6 +39,7 @@
 ## https://github.com/yaoguangluo/DataSwap
 ## https://github.com/yaoguangluo/Data_Prediction
 ## https://github.com/yaoguangluo/DETA_BackEnd
+## https://github.com/yaoguangluo/DataAILanguage(正在研发中)
 
 谢谢.
 完整版本展示:
